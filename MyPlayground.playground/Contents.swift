@@ -57,6 +57,7 @@ printSquare(namber: 14)
  4. Создать функцию, которая принимает параметры и вычисляет площадь круга.
  */
 
+// TODO: Если функция ничего не возвращает нт необходимости писать -> ()
 func squareCircle(radius: Double) -> () {
     .pi * (radius * radius)
     
@@ -82,6 +83,7 @@ func timeOfDayV2(isNightV2: Bool) -> String {
     }
 }
 
+// TODO: В чем вопрос?)
 // MARK: ВОПРОС!!!
 
 //print(timeOfDayV2(isNightV2: false))
